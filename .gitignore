@@ -11,7 +11,6 @@ htmlcov/
 # ---- Virtual environments ----
 .venv/
 venv/
-ENV/
 env/
 
 # ---- OS / editor ----
@@ -25,7 +24,6 @@ desktop.ini
 # ---- Secrets ----
 .env
 .env.*
-!.env.example
 
 # ---- Lab artifacts ----
 processed_knowledge_base.json
